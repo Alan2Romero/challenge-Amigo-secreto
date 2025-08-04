@@ -1,5 +1,5 @@
-<h1 align="center"> # AMIGO SECRETO </h1>
-<img width="500" height="500" alt="AMIGOSECRETO" src="https://github.com/user-attachments/assets/841437ae-7231-44b0-821e-7aa9348ac635" />
+<h1 align="center"> AMIGO SECRETO </h1>
+<img width="200" height="200" alt="AMIGOSECRETO" src="https://github.com/user-attachments/assets/841437ae-7231-44b0-821e-7aa9348ac635" />
 
 Implementacion de desafio, para ALURA Latam con Oracle, de un juego llamado "Amigo Secreto" utilizando Javascript, HTML y CSS. 
 
